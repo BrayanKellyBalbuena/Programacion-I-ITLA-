@@ -1,0 +1,1 @@
+Realiza un programa que permita guardar informacion de vehiculos: marca, modelo, año, color, valor, matricula, puertas, kilometraje. Al cerrar el programa y abrirlo nuevamente, los vehiculos digitados estaran ahi. El programa debe permitir modificar o eliminar y exportar vehiculos. AL usar la opcion exportar generara un archivo html con los datos organizados del vehiculo.

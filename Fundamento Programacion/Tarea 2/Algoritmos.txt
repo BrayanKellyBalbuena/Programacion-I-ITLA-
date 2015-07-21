@@ -1,0 +1,383 @@
+
+Bryan Kelly 20131959
+
+
+1)-Desarrollar un algoritmo que permita adquirir una revista.
+
+Algoritmo para adquirir una revista.
+
+Inicio.
+
+ 1-Identificar el tipo de revista que necesitamos.
+ 2-Ir a una tienda.
+ 3-Preguntar si tienen la revista.
+ 4-Si la tienen comprarla.
+ Si no la tienen repetir el paso 2.
+
+Fin.
+
+
+
+3)-Desarrollar un algoritmo que permita dar un beso.
+
+Algoritmo para dar un beso.
+
+Inicio.
+
+ 1-Localizar a la persona, objeto o cosa a la que se le  dará el beso.
+ 2-Acercarse a la persona, objeto o cosa.
+ 3-Dar beso.
+
+Fin.
+
+
+
+5)-Desarrollar un algoritmo que permita encender un vehículo.
+
+Algoritmo para encender un vehículo.
+
+Inicio.
+
+ 1-Ir a vehículo.
+ 2-Subir al vehículo.
+ 3-Verificar que tenemos la llave
+ 4-Colocar la llave.
+ 5-Encender el vehículo.
+
+
+
+7)-Desarrollar un algoritmo que permita mirar por un telescopio.
+
+Algoritmo para mirar por un telescopio.
+
+ Inicio.
+
+ 1-Ir hacia un observatorio.
+ 2-Preguntar si tienen un telescopio.
+ 3-Ir hacia el telescopio.
+ 4-Mirar por el telescopio.
+ 5-En caso de no tener un telescopio repetir el paso 1.
+
+Fin.
+
+
+
+
+9)-Desarrollar un algoritmo que permita tomar un baño.
+
+Algoritmo para tomar un baño.
+
+Inicio.
+
+ 1-Ir hacia el baño.
+ 2-Quitarse la ropa.
+ 3-Entrar en la bañera.
+ 4-Abrir el grifo.
+ 5-Tomar el baño.
+
+Fin.
+
+
+11)-Desarrollar un algoritmo que permita tocar determinada canción con un instrumento musical.
+
+Inicio.
+
+ 1-Saber que instrumento deseamos tocar.
+ 2-Buscar el intrumento.
+ 3.Sujetar el  instrumento.
+ 4.Tocar dicho instrumento
+
+Fin.
+
+
+
+13)-Desarrollar un algoritmo que permita apagar un bombillo.
+
+Algoritmo para apagar un bombillo.
+
+Inicio.
+
+ 1-Dirigirse hacia el bombillo.
+ 2-Verificar si esta encendido.
+ 3-Dirigirse al interruptor.
+ 4-Apagar el bombillo.
+
+Fin.
+
+
+
+15)-Desarrollar un algoritmo que permita apagar una vela.
+
+Algoritmo para apagar una vela.
+
+Inicio.
+
+ 1-Buscar la vela.
+ 2-Verificar que este encendida.
+ 4-Acercarse ala vela.
+ 5-Soplar hacia la llama.
+ 6-Apagar la vela.
+
+Fin.
+
+
+
+17)-Desarrollar un algoritmo que permita almorzar.
+
+Algoritmo para almorzar.
+
+Inicio.
+
+ 1-Tener claro lo que deseamos almorzar.
+ 2-Buscar el lugar en donde decíamos almorzar.
+ 3-Preparar almuerzo.
+ 4-Comer almuerzo.
+
+Fin.
+
+
+
+19)-Desarrollar un algoritmo que permita ir de la casa al trabajo.
+
+Algoritmo para ir de la casa al trabajo.
+
+Inicio.
+
+1-Salir de la casa.
+2-Tomar un medio de transporte,
+3-Dirigirse al trabajo.
+
+Fin.
+
+
+Inicio.
+    
+    
+
+
+21)-Desarrollar un algoritmo que permita quitarse una camisa.
+
+Algoritmo para quitarse una camisa.
+
+Inicio.
+
+ 1-Verificar si tenemos una camisa puesta
+ 2-si la tenemos 
+     si es de botones
+        desabotonar uno a uno los botones
+     sino 
+        descabrocharla   
+   fin_si
+
+Fin.
+23)-Desarrollar una algoritmo que permita abrir una ventana
+
+Inicio
+1-Identificar la ventana que vamos abrir
+2-Dirigirnos hacia la ventana.
+3-Cerrar la ventana.
+Fin.
+
+
+25)- Desarrollar un algoritmo que permita tomar una fotografía.
+
+Algoritmo para tomar una fotografía.
+
+Inicio.
+
+1-Conseguir una camara.
+2-Dirigirse a un lugar donde decíamos tomar la fotografía.
+3-Tomar la fotografía.
+
+Fin.
+
+
+
+
+27)Desarrollar un algoritmo que permita cortarse el cabello.
+
+Inicio
+  1-Saber que corte deseamos
+  2-Si estamos en dentro de un lugar
+      3-salir de ese lugar
+  4-Fin si
+ 5-Dirigirnos hacia la barbería más cercana
+ 6-Entrar al local
+ 7-Verificar si hay turno
+ 8-Si hay turno
+      9-sentarse
+     10-Pedir el corte deseado
+ 11-Sino
+     12-Esperar el turno
+ 13-Si ya hay turno
+     14-Sentarse
+     15-Pedir el corte deseado
+ 16-Fin si
+
+Fin.
+
+
+29)-Desarrollar un algoritmo que permita manejar una bicicleta.
+
+Inicio.
+   1-Ponernos un casco y rodilleras.
+   2-Si no disponemos de una bicicleta.
+      3-Conseguir una prestada.
+   4-Sacarla hacia un lugar muy espacioso.
+   5-Parar la biccleta.
+   6-Montarnos en el sillin.
+   7-Colocar el los pies en los pedales.
+
+Fin.
+   
+    
+     
+31-)Desarrollar un algoritmo que permita manejar un monociclo.
+
+Inicio.
+  
+   1-Coloca tu mano en una baranda para mantener el equilibrio mientras colocas tu pie en el pedal más alto.
+   2-Mantén tu otro pie en el suelo mientras te subes a la silla.
+   3-eleva tu pie del lado interior y colócalo sobre el pedal interior.
+   4- de montar el monociclo sin sostenerte de nada.
+   5-Pisa el pedal derecho, coloca tu pie izquierdo en el pedal izquierdo y siéntate en la silla mientras se esté levantando. 
+
+Fin. 
+
+
+
+33)-Desarrollar un algoritmo que permita hacer un pastel.
+Inicio.
+
+  1-Conseguir los ingredientes necesarios para la   creación del pastel. 
+  (huevo, harina, claras ,cuchara, vainilla, almíbar).
+  2-Batir la clara.
+  3-disolver azúcar.
+  4-Agregar harina.
+  5-Elegir un molde.
+  6-Echar mantequilla.
+  7-Llevar al horno por 45 minutos.
+  8-Retiralo de horno
+  9-Dejar que se enfrie.
+  10-Ponerle almibar.
+  11-Añadir alguna fruta de su gusto.
+
+Fin.
+
+
+
+
+35)-Desarrollar un algoritmo que permita adquirir un pantalón.
+
+Algoritmo para adquirir un pantalón.
+
+Inicio.
+
+ 1-Dirigirse a una tienda.
+ 2-Preguntar si tienen pantalón.
+ 3-Si lo tienen adquirirlo.
+ 4-Si no lo tienen volver al paso 1.
+
+Fin.
+
+
+37)-Desarrollar un algoritmo que permita leer el periódico.
+
+Inicio.
+  
+   1-Tener un periódico.
+   2-Abrir el periódico. 
+   3-Leer el periódico.
+
+Fin. 
+
+
+39)-Desarrollar un algoritmo que permita arrullar a un bebé hasta que se duerma.
+
+Inicio.
+   
+   1-Doblamos la esquina superior dependiendo de lo grande que sea nuestro bebé.
+   2-.Colocamos al bebé encima de la manta con su cuello justo por la doblez que acabamos de hacer.
+   3-.Cogemos la esquina izquierda del arrullo y la cruzamos por encima del pecho del bebé manteniendo su brazo derecho en una buena posición y su brazo izquierdo aún fuera del arrullo.
+   4-Cogemos la esquina inferior del arrullo, manteniendo su brazo izquierdo en una buena posición, y subimos esa esquina que irá metida por detrás del    hombro izquierdo del bebé.
+   5-Con lo que nos queda cogeremos desde la parte de arriba lo suficiente como para llegar con el arrullo al centro del pecho del bebé.
+   6-Con el resto del arrullo intentamos quitar el máximo de arrugas y lo llevamos hacia arriba cruzándolo desde la parte derecha a la izquierda.
+   7-Con lo que nos sobra deberemos pasarlo por debajo del bebé y meter el resto entre las dobleces que hicimos al principio.  
+
+
+41)- Desarrollar un algoritmo que permita jugar ping-pong.
+    
+Inicio.
+   
+   1-Dirigirnos a un lugar donde halla una mesa de ping pong.
+   2-Tomar una raqueta.
+   3-Buscar un oponente.
+   4-Comenzar a jugar ping pong.
+
+Fin.      
+
+
+43)- Desarrollar un algoritmo que permita tirarse desde un avión con un paracaídas.
+
+Inicio
+  
+  1-Llama a la zona de salto, pregunta sus horarios y  programa un salto en paracaídas.
+ 
+
+  2-Resuelve todas tus dudas antes de que pagues por el  salto.
+
+  3-Escoge el método para tu primer salto Caída Libre Acelerada.
+
+  4-vístete de acuerdo al clima en la tierra y usa tenis.
+
+  5-Aborda el avión.
+ 
+  6-Sal del avión con todo el equipaje para saltar.
+
+  7-¡Disfrútalo!. 
+
+
+45)-Desarrollar un algoritmo que permita descifrar un jeroglífico.
+  
+Inicio.
+
+   1-Ver un geroglfico.
+   2-Si sabemos el lenguaje jeroglifico
+       3-Leer para descifralo
+   4-sino
+      5-buscar un diccionario. 
+      6-descifrarlo.
+   
+Fin. 
+
+
+47-Desarrollar un algoritmo que permita quitarse los zapatos.
+
+ 
+Algoritmo_para_quitarnoslos_zapatos
+
+Inicio
+ 
+  1-Asegurarse de tener zapatos
+  2-Si ¿tenemos zapatos? Entonces
+      3-Desbrochar las agujetas
+      4-Proceder a retirar el zapato derecho
+      5-Retirar el zapato izquierdo
+  6-Fin Si
+
+Fin
+
+
+49)-Desarrollar un algoritmo que permita elevar una cometa.
+Inicio
+
+  1.asegurarnos de tener la cometa e hilo
+  2.Dirigirnos a un lugar con mucho viento.
+  3.Tomar la cometa.
+  4.Colocarnos de espalda al viento
+  5.Correr en direccion contraria al viento
+  6.Se elevo la cometa.
+  7.si se elevo la cometa disfruta .
+  8.si no se elevo repetir el paso desde el paso 2
+
+Fin
